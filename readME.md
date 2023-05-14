@@ -13,9 +13,9 @@ While implementing _Alarm function_, it askes for time, a pop-up will be initiat
 
 
 ## Steps:
->Start by clicking run button on your code editor
->then, it will ask for the password i.e. **_Sarthak@360_**
->then, the Jarvis starts though its GUI and introduce itself, after that it will be hearing you but will not response till you give the command of "WAKE UP" in order to start the conversation with it.
+Start by clicking run button on your code editor
+then, it will ask for the password i.e. **_Sarthak@360_**
+then, the Jarvis starts though its GUI and introduce itself, after that it will be hearing you but will not response till you give the command of "WAKE UP" in order to start the conversation with it.
 Once the assistent woked up you can use all it's functions like:
 
 FUNCTIONS
