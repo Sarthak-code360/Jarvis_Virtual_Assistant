@@ -2,7 +2,7 @@ FUNCTIONS :- There are nearly 30 function or more functions which this virtual a
 
 COMMANDS :- They are the keywords which should involve in your conversation with Jarvis to perform certain works.
 
-## Steps:
+##Steps:
 Start by clicking run button on your code editor
 then, 
 it will ask for the password i.e. Sarthak@360
